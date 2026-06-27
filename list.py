@@ -10,3 +10,4 @@ class Solution:
                 num//=10
             num=x
         return num
+        
